@@ -24,3 +24,8 @@ Starting to feel like a sysadmin again!! :-)
 
 
 Going to start producing music as code on my sonic pi!!!
+
+Now I made changes to this file from the GitHub account!
+
+This is awesome!!
+
