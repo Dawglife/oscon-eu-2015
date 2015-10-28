@@ -1,5 +1,6 @@
 Working on the README.md
 
+Hey Jer, ff wat editen en middels een pull request de wijziging doorvoeren 
 He is
 
 He truely is
